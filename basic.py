@@ -1,4 +1,4 @@
-# print("hello world")
+print("hello world")
 # Module ka two type -- 1st build in module (preinstalled in python)
 #  2nd external Module ( Need to install using pip)
 import pyjokes # external module ( )
