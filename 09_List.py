@@ -12,9 +12,9 @@ friends.append("Aashi") # append -- friends ke list me last me Aashi jor deta h 
 print(friends)
 
 l1 =[1,334,62,2,6,11]
-# l1.sort() # it arrange the number in assending order by default
-# l1.reverse()
-# l1.insert(3,3333) # at index = 3 in that place it insert 3333 ( index,object)
+l1.sort() # it arrange the number in assending order by default
+l1.reverse()
+l1.insert(3,3333) # at index = 3 in that place it insert 3333 ( index,object)
 value=l1.pop(2) # pop -- dlt ( here pop dlt the object jaha index = 2  hai .)  
 #  here value ek variable h 
 print(value)
